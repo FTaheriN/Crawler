@@ -1,5 +1,5 @@
 # Crawler
-<p align="justify">The golfNews file contains the code to crawl over a <a href=https://www.tgju.org/news/category/93964/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87/page/1 > Persian News website </a>and fetch necessry information about gold price. 
+<p align="justify">The goldNews file contains the code to crawl over a <a href=https://www.tgju.org/news/category/93964/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87/page/1 > Persian News website </a>and fetch necessry information about gold price. 
   These information are then used to plot chart and analyze the data.</p>
 
 <p align="justify">The weather report, crawls a <a href=https://www.wunderground.com/>weather website</a> to analyze weather changes over the months of a particular year.
